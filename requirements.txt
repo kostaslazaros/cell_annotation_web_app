@@ -1,0 +1,9 @@
+pandas
+scanpy
+decoupler
+hdf5plugin
+matplotlib
+jupyter
+seaborn
+leidenalg
+openpyxl
